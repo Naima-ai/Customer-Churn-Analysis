@@ -24,16 +24,15 @@ A European bank wants to understand why customers are leaving (churning) and pre
 1. First-Year Customer Experience Enhancement: Create a comprehensive onboarding program with regular check-ins and can offer first-year benefits such as fee waivers or special rates.
    
 2. Targeted Senior Retention Program: Create a senior focused" service with dedicated support representatives and can offer competitive retirement account options with better interest rates.
-   
-3.Germany-Focused Retention Campaign: Conduct market research specific to German customers' needs.
+3. Germany-Focused Retention Campaign: Conduct market research specific to German customers' needs.
 
 -Consider region-specific product offerings.
 
 -Increase local branch support if applicable.
 
-5.Bundle Service Optimization: Review the integration and user experience of bundled services.
+4. Bundle Service Optimization: Review the integration and user experience of bundled services.
 
-6.Develop targeted communications and products that address female customers' priorities.
+5. Develop targeted communications and products that address female customers' priorities.
 
 7.Review credit card benefits and competitiveness and improve the digital experience for credit card management.
 
