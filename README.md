@@ -3,7 +3,7 @@
 🔍 Business Problem
 A European bank wants to understand why customers are leaving (churning) and predict future churners based on historical data. Retaining customers is cheaper than acquiring new ones, so this analysis can help the bank target high-risk customers with interventions.
 
-Key Insights from the data:
+**Key Insights from the data:**
 
 *Early and Late Tenure Vulnerability: Churn peaks during early customer relationships and again at the 9-year mark.
 
@@ -19,13 +19,13 @@ Key Insights from the data:
 
 *Account Balance Factor: Higher account balance correlates with increased likelihood of churning.
 
-Recommended Decisions for Bank:
+**Recommended Decisions for Bank:**
 
 1. First-Year Customer Experience Enhancement: Create a comprehensive onboarding program with regular check-ins and can offer first-year benefits such as fee waivers or special rates.
    
 2. Targeted Senior Retention Program: Create a senior focused" service with dedicated support representatives and can offer competitive retirement account options with better interest rates.
    
-4.Germany-Focused Retention Campaign: Conduct market research specific to German customers' needs.
+3.Germany-Focused Retention Campaign: Conduct market research specific to German customers' needs.
 
 -Consider region-specific product offerings.
 
