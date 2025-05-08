@@ -10,6 +10,7 @@ Key Insights from the data:
 *Credit Card Correlation: Customers with credit cards are more likely to exit the bank.
 *Multi-Service Risk: Customers using all three services (loan, savings account, credit card) have higher exit rates.
 *Account Balance Factor: Higher account balance correlates with increased likelihood of churning.
+
 Recommended Decisions for Bank:
 1. First-Year Customer Experience Enhancement: Create a comprehensive onboarding program with regular check-ins and can offer first-year benefits such as fee waivers or special rates.
 2. Targeted Senior Retention Program: Create a senior focused" service with dedicated support representatives and can offer competitive retirement account options with better interest rates.
@@ -19,12 +20,15 @@ Recommended Decisions for Bank:
 4.Bundle Service Optimization: Review the integration and user experience of bundled services.
 5.Develop targeted communications and products that address female customers' priorities.
 6.Review credit card benefits and competitiveness and improve the digital experience for credit card management.
+
 For the prediction model development the following steps were taken:
+
 1.EDA included:
 a.Distribution plots
 b.Histograms
 c.Scatter and bar plots
 d.Grouped analysis by categorical variables
+
 🛠️ Feature Engineering
 Steps taken:
 1.Renamed columns for clarity (e.g., CreditScore → Credit_repay_score).
@@ -34,6 +38,7 @@ balance_salary_ratio = Balance / (EstimatedSalary + 1)
 4.Encoded categorical features like Geography, Gender.
 5.Removed outliers using IQR method for Age, CreditScore, NumOfProducts.
 6.Class imbalance handling with stratified train-test split and integrate SMOTE.
+
 🤖 Model Building
 Chosen model: Random Forest Classifier
 Why? It handles non-linearity, multicollinearity, and doesn’t require feature scaling.
