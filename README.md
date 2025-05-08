@@ -24,21 +24,20 @@ A European bank wants to understand why customers are leaving (churning) and pre
 1. First-Year Customer Experience Enhancement: Create a comprehensive onboarding program with regular check-ins and can offer first-year benefits such as fee waivers or special rates.
    
 2. Targeted Senior Retention Program: Create a senior focused" service with dedicated support representatives and can offer competitive retirement account options with better interest rates.
-3. Germany-Focused Retention Campaign: Conduct market research specific to German customers' needs.
-
+3. Germany-Focused Retention Campaign:
+-Conduct market research specific to German customers' needs.
 -Consider region-specific product offerings.
-
 -Increase local branch support if applicable.
 
 4. Bundle Service Optimization: Review the integration and user experience of bundled services.
 
 5. Develop targeted communications and products that address female customers' priorities.
 
-7.Review credit card benefits and competitiveness and improve the digital experience for credit card management.
+6.Review credit card benefits and competitiveness and improve the digital experience for credit card management.
 
-For the prediction model development the following steps were taken:
+For the prediction model development, the following steps were taken:
 
-1.EDA included:
+1. EDA included:
 
 a.Distribution plots
 
@@ -53,19 +52,19 @@ d.Grouped analysis by categorical variables
 
 Steps taken:
 
-1.Renamed columns for clarity (e.g., CreditScore → Credit_repay_score).
+1. Renamed columns for clarity (e.g., CreditScore → Credit_repay_score).
 
-2.Created new features like:
+2. Created new features like:
 
 balance_salary_ratio = Balance / (EstimatedSalary + 1)
 
-3.age_group using binning.
+3. age_group using binning.
 
-4.Encoded categorical features like Geography, Gender.
+4. Encoded categorical features like Geography, Gender.
 
-5.Removed outliers using IQR method for Age, CreditScore, NumOfProducts.
+5. Removed outliers using IQR method for Age, CreditScore, NumOfProducts.
 
-6.Class imbalance handling with stratified train-test split and integrate SMOTE.
+6. Class imbalance handling with stratified train-test split and integrate SMOTE.
 
 
 🤖 Model Building
