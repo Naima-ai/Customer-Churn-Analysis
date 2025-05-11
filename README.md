@@ -9,35 +9,34 @@ A European bank wants to understand why customers are leaving (churning) and pre
 
 *Gender Disparity (insignificant): Females show higher churn (1 in 5) compared to males (1 in 8).
 
-*Tenure Group Pattern: Churn rate is relatively consistent across tenure groups.
+*Geographic Variation: Germany has significantly higher churn rates proportionally than France and Spain.
 
-*Geographic Variation: Germany has significantly higher churn rates proportionally compared to France and Spain.
+*Credit Card Correlation: Customers with credit cards have a higher ratio of exiting the bank.
 
-*Credit Card Correlation: Customers with credit cards are more likely to exit the bank.
+*Multi-Service Risk: Customers using all the services (loan, savings account, credit card) have higher exit rates.
 
-*Multi-Service Risk: Customers using all three services (loan, savings account, credit card) have higher exit rates.
-
-*Account Balance Factor: Higher account balance correlates with increased likelihood of churning.
+*Account Balance Factor: A Higher account balance correlates with an increased likelihood of churning.
 
 **Recommended Decisions for Bank:**
 
 1. First-Year Customer Experience Enhancement: Create a comprehensive onboarding program with regular check-ins and can offer first-year benefits such as fee waivers or special rates.
    
-2. Targeted Senior Retention Program: Create a senior focused" service with dedicated support representatives and can offer competitive retirement account options with better interest rates.
+2. Targeted Senior Retention Program: Create a "senior-focused" service with dedicated support representatives and can offer competitive retirement account options with better interest rates.
+
 3. Germany-Focused Retention Campaign:
 -Conduct market research specific to German customers' needs.
 -Consider region-specific product offerings.
 -Increase local branch support if applicable.
 
-4. Bundle Service Optimization: Review the integration and user experience of bundled services.
+5. Bundle Service Optimization: Review bundled services' integration and user experience.
 
-5. Develop targeted communications and products that address female customers' priorities.
+6. Develop targeted communications and products that address female customers' priorities.
 
-6.Review credit card benefits and competitiveness and improve the digital experience for credit card management.
+7. Review credit card benefits and competitiveness, and improve the digital experience for credit card management.
 
 For the prediction model development, the following steps were taken:
 
-1. EDA included:
+# EDA included:
 
 a.Distribution plots
 
