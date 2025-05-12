@@ -1,4 +1,4 @@
-📊 Customer Churn Analysis & Prediction:
+📊 Maven Bank Customer Churn Analysis & Prediction:
 
 🔍 Business Problem
 A European bank wants to understand why customers are leaving (churning) and predict future churners based on historical data. Retaining customers is cheaper than acquiring new ones, so this analysis can help the bank target high-risk customers with interventions.
